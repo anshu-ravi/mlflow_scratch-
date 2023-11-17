@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/4683b8ee46e44986a7bbc5d0a9a3e39a/artifacts
+end_time: 1700217985544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4683b8ee46e44986a7bbc5d0a9a3e39a
+run_name: efficient-mule-661
+run_uuid: 4683b8ee46e44986a7bbc5d0a9a3e39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700217983343
+status: 4
+tags: []
+user_id: codespace

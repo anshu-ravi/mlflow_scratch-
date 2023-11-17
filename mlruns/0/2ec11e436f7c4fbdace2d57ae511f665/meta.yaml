@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/2ec11e436f7c4fbdace2d57ae511f665/artifacts
+end_time: 1700217995887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ec11e436f7c4fbdace2d57ae511f665
+run_name: beautiful-mink-500
+run_uuid: 2ec11e436f7c4fbdace2d57ae511f665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700217993751
+status: 4
+tags: []
+user_id: codespace

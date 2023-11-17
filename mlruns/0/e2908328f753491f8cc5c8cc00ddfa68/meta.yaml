@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/e2908328f753491f8cc5c8cc00ddfa68/artifacts
+end_time: 1700218332983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2908328f753491f8cc5c8cc00ddfa68
+run_name: intrigued-fowl-546
+run_uuid: e2908328f753491f8cc5c8cc00ddfa68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700218330763
+status: 4
+tags: []
+user_id: codespace

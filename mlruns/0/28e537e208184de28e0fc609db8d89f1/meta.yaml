@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/28e537e208184de28e0fc609db8d89f1/artifacts
+end_time: 1700218153545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e537e208184de28e0fc609db8d89f1
+run_name: whimsical-quail-255
+run_uuid: 28e537e208184de28e0fc609db8d89f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700218151248
+status: 4
+tags: []
+user_id: codespace

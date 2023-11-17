@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/03572e66ba5140929a942ed75f0277f4/artifacts
+end_time: 1700218163738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03572e66ba5140929a942ed75f0277f4
+run_name: redolent-cod-321
+run_uuid: 03572e66ba5140929a942ed75f0277f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700218161403
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/bb811bcd38b44caebe2b3080528e2488/artifacts
+end_time: 1700217105346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb811bcd38b44caebe2b3080528e2488
+run_name: upset-lamb-744
+run_uuid: bb811bcd38b44caebe2b3080528e2488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700217004356
+status: 3
+tags: []
+user_id: codespace

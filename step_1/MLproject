@@ -1,0 +1,12 @@
+name: step1_module 
+conda_env: conda.yml
+
+entry_points:
+  main:
+    parameters:
+      text:
+        default: "Hello from step1"
+        type: str
+        description: "Text to print"
+    command: >- 
+      python run_step1.py --text {text}

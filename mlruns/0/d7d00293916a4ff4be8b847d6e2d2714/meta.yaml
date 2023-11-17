@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/d7d00293916a4ff4be8b847d6e2d2714/artifacts
+end_time: 1700218263471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7d00293916a4ff4be8b847d6e2d2714
+run_name: gifted-goat-763
+run_uuid: d7d00293916a4ff4be8b847d6e2d2714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700218261295
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/06270d8d1a8e4746898b2ff72048b180/artifacts
+end_time: 1700216854567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06270d8d1a8e4746898b2ff72048b180
+run_name: agreeable-carp-906
+run_uuid: 06270d8d1a8e4746898b2ff72048b180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700216851778
+status: 4
+tags: []
+user_id: codespace

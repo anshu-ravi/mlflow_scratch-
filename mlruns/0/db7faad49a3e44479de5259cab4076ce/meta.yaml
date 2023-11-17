@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/db7faad49a3e44479de5259cab4076ce/artifacts
+end_time: 1700216950397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db7faad49a3e44479de5259cab4076ce
+run_name: welcoming-owl-211
+run_uuid: db7faad49a3e44479de5259cab4076ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700216948018
+status: 4
+tags: []
+user_id: codespace

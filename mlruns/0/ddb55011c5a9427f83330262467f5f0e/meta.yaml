@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/ddb55011c5a9427f83330262467f5f0e/artifacts
+end_time: 1700218090908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddb55011c5a9427f83330262467f5f0e
+run_name: rambunctious-sow-124
+run_uuid: ddb55011c5a9427f83330262467f5f0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700218088843
+status: 4
+tags: []
+user_id: codespace

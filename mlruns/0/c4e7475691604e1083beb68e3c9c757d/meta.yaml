@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/c4e7475691604e1083beb68e3c9c757d/artifacts
+end_time: 1700217977096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4e7475691604e1083beb68e3c9c757d
+run_name: defiant-worm-81
+run_uuid: c4e7475691604e1083beb68e3c9c757d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700217974161
+status: 4
+tags: []
+user_id: codespace

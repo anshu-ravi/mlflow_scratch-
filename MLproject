@@ -1,0 +1,12 @@
+name: pipeline_demo 
+conda_env: conda.yml
+
+entry_points:
+  main:
+    parameters:
+      hydra_options:
+        default: ""
+        type: str
+        description: "Overrides for hydra config"
+    command: >- 
+      python main.py $(echo {hydra_options})

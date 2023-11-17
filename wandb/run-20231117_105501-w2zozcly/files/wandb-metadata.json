@@ -1,0 +1,44 @@
+{
+    "os": "Linux-6.2.0-1016-azure-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-11-17T10:55:02.097318",
+    "startedAt": "2023-11-17T10:55:01.528641",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/workspaces/codespaces-blank/wandb_test.py",
+    "codePathLocal": "wandb_test.py",
+    "codePath": "wandb_test.py",
+    "host": "codespaces-83ce47",
+    "username": "codespace",
+    "executable": "/opt/conda/envs/main_env/bin/python3",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 3243.6665000000003,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3243.217,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3243.63,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 31.32598876953125,
+            "used": 14.852897644042969
+        }
+    },
+    "memory": {
+        "total": 7.744102478027344
+    }
+}
